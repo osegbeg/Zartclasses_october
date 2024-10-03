@@ -1,0 +1,28 @@
+{
+  "name": "zartclasses_october",
+  "version": "1.0.0",
+  "description": "Zarttech classes for October",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osegbeg/Zartclasses_october.git"
+  },
+  "author": "Golden-Joe Osegbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osegbeg/Zartclasses_october/issues"
+  },
+  "homepage": "https://github.com/osegbeg/Zartclasses_october#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.7.4",
+    "typescript": "^5.6.2"
+  }
+}
